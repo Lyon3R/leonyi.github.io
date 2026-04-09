@@ -1,17 +1,24 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/lyon3r)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am a second-year MSc student at the University of Victoria, working with Dr. Regan L. Mandryk. Focusing on Human-Computer Interaction, especially in Game Toxicity and players' experience.\
+
+I am currently seeking PhD opportunities for 2026 and 2027!
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: lyon3r[at]uvic.ca
+qq1071757405[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Hubei Polytechnic University, BS in Software Engineering\
+
+Sept 2019 – Jun 2023\
+University of Victoria, MSc in Computer Science \
+
+May 2024 – Present\
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Game Toxicity, Community Governance, Human-Computer Interaction
 
