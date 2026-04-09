@@ -1,23 +1,31 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/lyon3r)
+[![lyon3r](https://img.shields.io/badge/Leon Yi-github-blue?logo=github)](https://github.com/lyon3r)
 
-I am a second-year MSc student at the University of Victoria, working with Dr. Regan L. Mandryk. Focusing on Human-Computer Interaction, especially in Game Toxicity and players' experience.\
+I am a second-year MSc student at the University of Victoria, working with **Dr. Regan L. Mandryk**. Focusing on Human-Computer Interaction, especially in Game Toxicity and players' experience. 
 
-I am currently seeking PhD opportunities for 2026 and 2027!
+**I am currently seeking PhD opportunities for 2026 and 2027!**
+
+**My CURRENT research focuses on:**
+
+- **Player Behavior and Toxicity:** Investigating the socio-technical factors behind disruptive behaviors (e.g., queue dodging) in competitive online games like *League of Legends*.
+- **Emergent Social Rules:** Exploring how players develop and negotiate unwritten rules in tactical shooters (e.g., *Delta Force*).
+- **Game Analytics & Player Experience:** Utilizing mixed-methods approaches to enhance player retention and foster healthy gaming communities.
 
 #### Contact
 
 Email: lyon3r[at]uvic.ca
-qq1071757405[at]gmail.com
 
 #### Education
-Hubei Polytechnic University, BS in Software Engineering\
+University of Victoria | May 2024 – Present
 
-Sept 2019 – Jun 2023\
-University of Victoria, MSc in Computer Science \
+M.Sc. in Computer Science
 
-May 2024 – Present\
+
+
+Hubei Polytechnic University | Sept 2019 – Jun 2023
+
+B.S. in Software Engineering
 
 #### Research Interests
 Game Toxicity, Community Governance, Human-Computer Interaction
