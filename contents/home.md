@@ -4,7 +4,7 @@
 
 Hi, I'm Wenhao Yi! You can just call me Leon :D.
 
-I am a second-year MSc student in [VIXI Lab](https://vixi.cs.uvic.ca/) at the University of Victoria, working with [**Dr. Regan L. Mandryk**](https://vixi.cs.uvic.ca/people/regan-mandryk-2023-07-31/). Focusing on Human-Computer Interaction, especially in Game Toxicity and players' experience. 
+I am a second-year MSc student in [VIXI Lab](https://vixi.cs.uvic.ca/) at the University of Victoria, working with [**Dr. Regan L. Mandryk**](https://vixi.cs.uvic.ca/people/regan-mandryk-2023-07-31/). Focusing on Human-Computer Interaction, especially in Game Toxicity and players' experience. You can find my CV [here](https://drive.google.com/file/d/1-WluymsmS1f-0pMs-TqAIHFwyK3rAFHX/view?usp=drive_link).
 
 **I am currently seeking PhD opportunities for 2026 and 2027!**
 
