@@ -2,7 +2,9 @@
 
 [![lyon3r](https://img.shields.io/badge/Leon Yi-github-blue?logo=github)](https://github.com/lyon3r)
 
-I am a second-year MSc student at the University of Victoria, working with **Dr. Regan L. Mandryk**. Focusing on Human-Computer Interaction, especially in Game Toxicity and players' experience. 
+Hi, I'm Wenhao Yi! You can just call me Leon :D.
+
+I am a second-year MSc student in [[VIXI Lab]](https://vixi.cs.uvic.ca/) at the University of Victoria, working with [[**Dr. Regan L. Mandryk**]](https://vixi.cs.uvic.ca/people/regan-mandryk-2023-07-31/). Focusing on Human-Computer Interaction, especially in Game Toxicity and players' experience. 
 
 **I am currently seeking PhD opportunities for 2026 and 2027!**
 
