@@ -30,5 +30,5 @@ Hubei Polytechnic University | Sept 2019 – Jun 2023
 B.S. in Software Engineering
 
 #### Research Interests
-Game Toxicity, Community Governance, Human-Computer Interaction
+Game Toxicity, Player Experience, Videogames, Community Governance, Human-Computer Interaction
 
